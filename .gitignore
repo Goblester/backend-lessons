@@ -1,5 +1,4 @@
-dist
-node_modues
-idea
 # Project exclude paths
 /node_modules/
+.idea
+dist
